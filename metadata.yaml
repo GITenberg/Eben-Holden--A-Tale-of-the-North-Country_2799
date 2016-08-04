@@ -1,0 +1,33 @@
+_repo: Eben-Holden--A-Tale-of-the-North-Country_2799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacheller, Irving
+    alias: Bacheller, Addison Irving
+    birthdate: 1859
+    deathdate: 1950
+    gutenberg_agent_id: '4001'
+    url: http://www.gutenberg.org/2009/agents/4001
+    wikipedia: http://en.wikipedia.org/wiki/Irving_Bacheller
+description: Published in 1900, this popular novel was the first of Bacheller's books
+  to focus on upper New York State. Here a young orphan, Willie Brower, is adopted
+  by the old woodcutter Eben Holden and the story follows their struggle to survive.
+  Willie grows to be a journalist, join the Union Army, and fight in the Battle of
+  Bull Run.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Eben Holden: A Tale of the North Country'
+url: http://www.gutenberg.org/ebooks/2799
