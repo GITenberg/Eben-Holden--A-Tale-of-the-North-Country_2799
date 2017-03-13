@@ -1,5 +1,8 @@
 _repo: Eben-Holden--A-Tale-of-the-North-Country_2799
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bacheller, Irving
@@ -14,6 +17,8 @@ description: Published in 1900, this popular novel was the first of Bacheller's 
   by the old woodcutter Eben Holden and the story follows their struggle to survive.
   Willie grows to be a journalist, join the Union Army, and fight in the Battle of
   Bull Run.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2799#Eben-Holden--A-Tale-of-the-North-Country
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
